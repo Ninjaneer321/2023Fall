@@ -80,6 +80,7 @@
 | JAPN | [JAPN](TOC/JAPN.md) |
 | JWSP | [JWSP](TOC/JWSP.md) |
 | LATI | [LATI](TOC/LATI.md) |
+| LHCO | [LHCO](TOC/LHCO.md) |
 | LIAB | [LIAB](TOC/LIAB.md) |
 | LIDS | [LIDS](TOC/LIDS.md) |
 | LIFR | [LIFR](TOC/LIFR.md) |
